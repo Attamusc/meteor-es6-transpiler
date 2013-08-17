@@ -1,0 +1,28 @@
+{
+  "dependencies": {
+    "es6-module-transpiler": {
+      "version": "0.2.0",
+      "dependencies": {
+        "coffee-script": {
+          "version": "1.3.3"
+        },
+        "optimist": {
+          "version": "0.3.7",
+          "dependencies": {
+            "wordwrap": {
+              "version": "0.0.2"
+            }
+          }
+        }
+      }
+    },
+    "source-map": {
+      "version": "0.1.24",
+      "dependencies": {
+        "amdefine": {
+          "version": "0.0.8"
+        }
+      }
+    }
+  }
+}
