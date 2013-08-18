@@ -15,7 +15,7 @@ Then, just create  javascript files in your project with the `.njs` extension.
 
 ## Usage
 
-Any file with `.njs` will be compiled using [es6-module-transpiler](http://github.com/square/es6-module-transpiler) into AMD format. Once in that form, [almond]() is used on the client for resolving modules. Usage (and the current sanctioned  module syntax) can be found in es6-module-transpiler's README.
+Any file with `.njs` will be compiled using [es6-module-transpiler](https://github.com/square/es6-module-transpiler) into AMD format. Once in that form, [almond](https://github.com/jrburke/almond) is used on the client for resolving modules. Usage (and the current sanctioned  module syntax) can be found in es6-module-transpiler's README.
 
 The `.njs` extension is necessary to not conflict with the Meteor's defaut `js` extension handler, which is necessary for packages to run.
 

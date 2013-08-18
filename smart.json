@@ -1,0 +1,9 @@
+{
+  "name": "es6-transpiler",
+  "description": "es6-module-transpiler wrapper",
+  "homepage": "https://github.com/Attamusc/meteor-es6-transpiler",
+  "author": "Sean Dunn <sean@attamusc.com>",
+  "version": "0.0.1",
+  "git": "https://github.com/Attamusc/meteor-es6-transpiler.git",
+  "packages": {}
+}
